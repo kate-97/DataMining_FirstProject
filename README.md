@@ -1,5 +1,7 @@
-<img src = "https://openflights.org/demo/openflights-apdb-2048.png" width = 650px height = 300px/>
+<img src = "https://openflights.org/demo/openflights-apdb-2048.png" width = 650px height = 300px></img>
 
+*NOTE* : The picture and data used in this data exploration was taken from <a href = "https://openflights.org/data.html"> OpenFlight's cite. </a>
+ 
 🇬🇧
 # First project od data mining :airplane:
 <br/>
